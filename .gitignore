@@ -4,4 +4,4 @@ runs
 *.yaml
 *.pt
 
-dataset/
+dataset*/
